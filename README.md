@@ -18,6 +18,7 @@
 
 ### Dependencies
 
+* pip install
 ```bash
 pip install scipy
 pip install numpy
@@ -28,6 +29,26 @@ pip install Wave
 pip install yt-dlp
 pip install librosa
 pip install soundfile
+```
+
+#### Other things to install
+This project requires **FFmpeg** to handle audio processing.
+#### Windows
+1. Download the executable from the [official website](https://www.ffmpeg.org/download.html).
+2. Extract the files and add the `bin` folder to your System PATH.
+
+#### Linux
+Run the command for your distribution:
+
+```bash
+# Debian / Ubuntu
+sudo apt install ffmpeg
+
+# Fedora
+sudo dnf install ffmpeg
+
+# Arch Linux
+sudo pacman -S ffmpeg
 ```
 
 Ensure you have **Python 3.x** installed on your system.
