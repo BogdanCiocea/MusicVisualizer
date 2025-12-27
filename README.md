@@ -32,7 +32,7 @@ pip install soundfile
 ```
 
 #### Other things to install
-This project requires **FFmpeg** to handle audio processing.
+This project requires **FFmpeg** to handle audio download.
 #### Windows
 1. Download the executable from the [official website](https://www.ffmpeg.org/download.html).
 2. Extract the files and add the `bin` folder to your System PATH.
