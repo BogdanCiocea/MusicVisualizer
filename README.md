@@ -9,7 +9,7 @@
 ## Features
 
 * **Spectrum Analysis:** Real-time visualization of audio frequencies.
-* **Dynamic Effects:** Visual filters and animations that react to the beat.
+* **Dynamic Effects:** Audio filters that change the sounds.
 * **Synced Lyrics:** Automatically fetches and displays lyrics using `syncedlyrics`.
 * **YouTube Support:** Stream and visualize audio directly from YouTube via `yt-dlp`.
 * **High-Fidelity Audio:** Supports high-quality local file playback.
