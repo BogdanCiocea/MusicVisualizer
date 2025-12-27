@@ -1,0 +1,11 @@
+WIDTH, HEIGHT = 1920, 1080
+cx, cy = WIDTH // 2, HEIGHT // 2
+FPS = 144
+SMOOTHING = 0.7
+CHUNK_SIZE = 1024
+WAV_FILE_PATH = ""
+threshold = 200
+SONGS_DIRECTORY = "songs/"
+SONG_SPEED = 1.0
+VOCALS_DIRECTORY = "vocals/"
+bg_path = "background.jpg"
