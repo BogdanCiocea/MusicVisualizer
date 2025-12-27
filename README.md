@@ -1,4 +1,4 @@
-# 🎵 Music Visualizer
+# Music Visualizer
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
@@ -6,7 +6,7 @@
 
 > A powerful audio visualizer that analyzes sound spectrums in real-time, generating dynamic visual effects synchronized with your favorite music.
 
-## ✨ Features
+## Features
 
 * **Spectrum Analysis:** Real-time visualization of audio frequencies.
 * **Dynamic Effects:** Visual filters and animations that react to the beat.
@@ -14,7 +14,7 @@
 * **YouTube Support:** Stream and visualize audio directly from YouTube via `yt-dlp`.
 * **High-Fidelity Audio:** Supports high-quality local file playback.
 
-## 🛠️ Installation
+## Installation
 
 ### Dependencies
 
@@ -36,3 +36,9 @@ Ensure you have **Python 3.x** installed on your system.
 ```bash
 git clone git@github.com:BogdanCiocea/MusicVisualizer.git
 cd MusicVisualizer
+```
+
+## Run application
+```bash
+python3 music.py
+```
