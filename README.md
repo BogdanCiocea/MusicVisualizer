@@ -16,6 +16,17 @@
 
 ## Installation
 
+### Must have pip installed:
+#### Windows
+```bash
+py -m ensurepip --upgrade
+```
+
+#### Linux
+```bash
+python -m ensurepip --upgrade
+```
+
 ### Dependencies
 
 * pip install
